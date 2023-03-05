@@ -1,0 +1,10 @@
+.carousel-indicators {
+    bottom: 40px;
+    
+}
+.carousel-item {
+    height:500px;
+}
+.text-dark {
+    float:left;
+}
